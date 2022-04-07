@@ -1,4 +1,3 @@
-var container = $('.container')
 var textArea = $('textarea')
 var nine = $('#nine')
 var ten = $('#ten')
@@ -95,3 +94,8 @@ seventeen.on('click', function(event){
     console.log(txtSeventeen);
     localStorage.FirstSixteen = txtSeventeen
 })
+
+    var currentDay = moment(new Date()).format('dddd, MMMM Do YYYY, h:mm:ss a');
+    $("#currentDay").text(currentDay)
+    console.log(currentDay)
+
