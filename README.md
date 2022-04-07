@@ -9,7 +9,7 @@ Allows for a clean, organized schedule to be made for your tipical 9-5 job with 
 ### Code highlights
 ![image](https://user-images.githubusercontent.com/100871996/162272475-76d63aeb-b5f1-4186-856d-1fa82e15be3b.png)
 
-This snippit of code allows the site to allways be up to date in corispondance with the users computer.
+This snippit of code allows the site to allways be up to date in correspondence with the users computer.
 
 ### Author
 © Caitiln Lindauer
